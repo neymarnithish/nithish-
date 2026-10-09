@@ -1,0 +1,12 @@
+# Local environments and temporary files
+.venv/
+.pip-temp/
+__pycache__/
+*.log
+
+# Customer data and trained model artifacts
+data/
+models/
+
+# Streamlit secrets
+.streamlit/secrets.toml
