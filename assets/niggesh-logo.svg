@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">NIGGESH</title>
+  <desc id="desc">Colorful, friendly logo for the NIGGESH customer retention intelligence platform</desc>
+  <g transform="translate(48 42)">
+    <path d="M126 26c45 0 82 37 82 82 0 46-37 83-82 83-22 0-41-8-56-22" fill="none" stroke="#FF6B6B" stroke-width="17" stroke-linecap="round"/>
+    <path d="M45 168V68l93 100V68" fill="none" stroke="#5146D8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M145 174l27-30 24 8 35-43" fill="none" stroke="#20BFA9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="145" cy="174" r="8" fill="#FFB547"/><circle cx="172" cy="144" r="8" fill="#FF6B6B"/><circle cx="196" cy="152" r="8" fill="#5146D8"/><circle cx="231" cy="109" r="8" fill="#20BFA9"/>
+    <circle cx="48" cy="43" r="10" fill="#FFB547"/><circle cx="220" cy="53" r="7" fill="#5146D8"/>
+  </g>
+  <text x="340" y="190" font-family="Nunito, 'Aptos', 'Trebuchet MS', Arial, sans-serif" font-size="106" font-weight="900" letter-spacing="1"><tspan fill="#5146D8">N</tspan><tspan fill="#FF6B6B">I</tspan><tspan fill="#20BFA9">G</tspan><tspan fill="#5146D8">G</tspan><tspan fill="#FFB547">E</tspan><tspan fill="#FF6B6B">S</tspan><tspan fill="#20BFA9">H</tspan></text>
+  <rect x="349" y="224" width="64" height="7" rx="3.5" fill="#FF6B6B"/>
+  <text x="430" y="239" fill="#596579" font-family="Nunito, 'Aptos', 'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="3.1">CUSTOMER RETENTION INTELLIGENCE</text>
+</svg>
